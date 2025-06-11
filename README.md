@@ -1,4 +1,4 @@
-# regresion-logistica-simulacion
+# Regresión Logística Binaria: Simulación y Estimación
 
 Este proyecto implementa un modelo de regresión logística binaria utilizando dos métodos de estimación: **gradiente descendente** y **Newton-Raphson**. Se incluyen simulaciones, visualizaciones gráficas de funciones logísticas, análisis de convergencia, y evaluación de desempeño.
 
