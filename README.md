@@ -16,7 +16,7 @@ Simular un conjunto de datos binarios y estimar los parámetros de un modelo log
 - Scipy
 
 Instalar dependencias:
-```bash
+
 pip install numpy matplotlib scipy
 
 
@@ -67,3 +67,4 @@ Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE
 Autor
 Luis Eduardo Villanueva Oliver
 2025 — Proyecto de simulación y análisis estadístico con regresión logística.
+```bash
