@@ -2,13 +2,13 @@
 
 Este proyecto implementa un modelo de regresión logística binaria utilizando dos métodos de estimación: **gradiente descendente** y **Newton-Raphson**. Se incluyen simulaciones, visualizaciones gráficas de funciones logísticas, análisis de convergencia, y evaluación de desempeño.
 
-## 📊 Objetivo
+##  Objetivo
 
 Simular un conjunto de datos binarios y estimar los parámetros de un modelo logístico utilizando diferentes algoritmos. El objetivo es entender la forma de la función sigmoide y logit, comparar métodos de optimización, y visualizar métricas relevantes como la verosimilitud y la precisión.
 
 ---
 
-## 🔧 Requisitos
+##  Requisitos
 
 - Python 3.8+
 - Numpy
@@ -20,7 +20,7 @@ Instalar dependencias:
 pip install numpy matplotlib scipy
 
 
-🧪 Contenido del Código
+Contenido del Código
 1. Simulación de Datos
 Se generan 100 muestras con dos variables independientes y un término constante.
 
@@ -43,7 +43,7 @@ Precisión del modelo.
 
 Comparación entre los parámetros reales y los estimados.
 
-📈 Visualizaciones Generadas
+ Visualizaciones Generadas
 Curva sigmoide: relación entre xᵀβ y π.
 
 Transformación logit.
@@ -54,16 +54,16 @@ Probabilidades vs clases reales.
 
 Relación entre potencia estadística y p-valor.
 
-✅ Resultados
+Resultados
 Parámetros reales: [-1, 2, -1]
 
 Parámetros estimados (GD): calculados iterativamente.
 
 Precisión del modelo: impresa en consola.
 
-📜 Licencia
+Licencia
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
-✍️ Autor
+Autor
 Luis Eduardo Villanueva Oliver
 2024 — Proyecto de simulación y análisis estadístico con regresión logística.
