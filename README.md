@@ -6,7 +6,7 @@ Este proyecto implementa un modelo de regresión logística binaria utilizando d
 
 Simular un conjunto de datos binarios y estimar los parámetros de un modelo logístico utilizando diferentes algoritmos. El objetivo es entender la forma de la función sigmoide y logit, comparar métodos de optimización, y visualizar métricas relevantes como la verosimilitud y la precisión.
 
----
+
 
 ##  Requisitos
 
@@ -24,7 +24,7 @@ pip install numpy matplotlib scipy
 ## Contenido del Código
 1. Simulación de Datos
 Se generan 100 muestras con dos variables independientes y un término constante.
-
+---
 Se usa una combinación lineal con parámetros reales (beta_true) y se transforma con una función sigmoide.
 
 2. Funciones Matemáticas
