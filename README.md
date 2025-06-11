@@ -21,7 +21,7 @@ Instalar dependencias:
 pip install numpy matplotlib scipy
 
 
-## Contenido del Código
+ Contenido del Código
 1. Simulación de Datos
 Se generan 100 muestras con dos variables independientes y un término constante.
 
