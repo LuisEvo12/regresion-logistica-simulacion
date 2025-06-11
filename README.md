@@ -14,8 +14,9 @@ Simular un conjunto de datos binarios y estimar los parámetros de un modelo log
 - Numpy
 - Matplotlib
 - Scipy
-```bash
+
 Instalar dependencias:
+```bash
 
 pip install numpy matplotlib scipy
 
