@@ -66,4 +66,4 @@ Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE
 
 Autor
 Luis Eduardo Villanueva Oliver
-2024 — Proyecto de simulación y análisis estadístico con regresión logística.
+2025 — Proyecto de simulación y análisis estadístico con regresión logística.
